@@ -1,5 +1,23 @@
-#notifactio_bar{
-    height: 10px;
+*{
+    margin: 0px;
+
+}
+
+
+
+.navbar{
+    height: 40px;
     width: 100%;
     background: black;
+    opacity: 0.47;
+    display: flex;
+}
+
+.Ab_con{
+    border-radius: 20px;
+    height: 30px;
+    margin-top: 5px;
+    margin-right: 10px;
+    display: inline-block;
+    justify-content: right;
 }
